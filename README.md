@@ -31,7 +31,8 @@ A responsive and feature-rich currency converter web application that fetches re
 
 ## 📸 Preview
 
-![App Screenshot](screenshot.png)
+<img width="1919" height="974" alt="image" src="https://github.com/user-attachments/assets/299603c6-596f-451a-955b-f9a2da6513ad" />
+
 
 ---
 
